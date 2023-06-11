@@ -1,0 +1,30 @@
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1234567890
+
+Ha HaHa
+
+
+cat 
+Mat
+pat
+bat 
+
+MetaCharacters (Need to be escaped):
+.[{()\^$|?*+
+
+dataisgood.com
+
+321-555-4321
+123.555.1234
+123*555*1234
+800-555-4321
+900.555.1234
+
+Mr. Schafer
+Mr Smith
+Ms Davis
+Mrs. Robinson
+Mr. T
+
+
